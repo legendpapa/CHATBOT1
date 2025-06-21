@@ -1,5 +1,5 @@
 Abg==2.3.1
-git+https://github.com/KurimuzonAkuma/pyrofork@dev
+pyrofork
 pymongo
 motor
 requests
